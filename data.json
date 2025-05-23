@@ -1,376 +1,376 @@
 {
-    "root": {
-        "props": {
-            "title": "test"
+  "root": {
+    "props": {
+      "title": "test"
+    }
+  },
+  "zones": {},
+  "content": [
+    {
+      "type": "Hero1",
+      "props": {
+        "id": "Hero1-793ea387-eb75-44f5-b59e-ae54ef718d25",
+        "title": "Create Stunning AI Images",
+        "tagline": "AI IMAGE CREATOR",
+        "description": "Quickly make eye-catching visuals with our AI image creator to boost your social media.",
+        "highlightedWord": "Stunning",
+        "primaryButtonDetails": {
+          "primaryButtonLink": "#get-started",
+          "primaryButtonText": "Create Now ✨"
+        },
+        "secondaryButtonDetails": {
+          "secondaryButtonLink": "#features",
+          "secondaryButtonText": "Explore Features",
+          "showSecondaryButton": false
         }
+      }
     },
-    "zones": {},
-    "content": [
-        {
-            "type": "Hero1",
-            "props": {
-                "id": "Hero1-793ea387-eb75-44f5-b59e-ae54ef718d25",
-                "title": "Create Impactful Videos with AI",
-                "tagline": "AI VIDEO CREATION",
-                "description": "Harness the power of AI to effortlessly produce captivating social media videos that drive engagement and grow your brand. Customize professional styles, optimize for every platform, and turn ideas into scroll-stopping content in minutes—no editing experience needed.",
-                "highlightedWord": "Impactful",
-                "primaryButtonDetails": {
-                    "primaryButtonLink": "#get-started",
-                    "primaryButtonText": "Start Creating Now"
-                },
-                "secondaryButtonDetails": {
-                    "secondaryButtonLink": "#features",
-                    "secondaryButtonText": "Discover Features",
-                    "showSecondaryButton": false
-                }
+    {
+      "type": "ProblemBlock1",
+      "props": {
+        "id": "ProblemBlock1-5ea79086-d665-482d-88a3-cb2b0045dc05",
+        "highlightedWord": "Design",
+        "comparisonHeadline": "AI-Powered Design vs Manual Image Editing",
+        "visualBuilderDetails": {
+          "visualBuilderTitle": "Create with PixelPlus",
+          "visualBuilderAdvantages": [
+            {
+              "advantageIcon": "ClipboardList",
+              "advantageTitle": "Instant Social-Ready Images",
+              "advantageDescription": "Generate eye-catching, platform-optimized visuals in seconds with AI-crafted templates tailored for Instagram, Facebook, Twitter, and more."
+            },
+            {
+              "advantageIcon": "Timer",
+              "advantageTitle": "Seamless Automation",
+              "advantageDescription": "Automate image generation and customization effortlessly, saving hours while keeping your content fresh and on-trend."
+            },
+            {
+              "advantageIcon": "DollarSign",
+              "advantageTitle": "Boost Engagement & Reach",
+              "advantageDescription": "Create stunning images designed to captivate your audience, increase shares, and drive conversions faster than traditional design methods."
             }
+          ]
         },
-        {
-            "type": "ProblemBlock1",
-            "props": {
-                "id": "ProblemBlock1-5ea79086-d665-482d-88a3-cb2b0045dc05",
-                "highlightedWord": "Creation",
-                "comparisonHeadline": "AI-Powered Video Creation vs Manual Editing Hassles",
-                "visualBuilderDetails": {
-                    "visualBuilderTitle": "Create with VidBot",
-                    "visualBuilderAdvantages": [
-                        {
-                            "advantageIcon": "ClipboardList",
-                            "advantageTitle": "Instant Social-Ready Videos",
-                            "advantageDescription": "Produce stunning, optimized videos for Instagram, TikTok, Facebook and beyond in minutes, powered by smart AI templates designed for maximum platform impact."
-                        },
-                        {
-                            "advantageIcon": "Timer",
-                            "advantageTitle": "Seamless Automation",
-                            "advantageDescription": "Effortlessly automate editing and tailor content to your audience with intelligent tools that save time and keep your social feed dynamic daily."
-                        },
-                        {
-                            "advantageIcon": "DollarSign",
-                            "advantageTitle": "Boost Engagement & Growth",
-                            "advantageDescription": "Elevate your brand’s reach with captivating videos engineered to amplify shares, increase followers, and accelerate conversions faster than traditional video methods."
-                        }
-                    ]
-                },
-                "comparisonSubheadline": "Discover how VidBot transforms social video creation with lightning-fast AI tools that align perfectly with your brand’s voice",
-                "traditionalDevDetails": {
-                    "traditionalDevTitle": "The Struggles of Classic Video Production",
-                    "traditionalDevDrawbacks": [
-                        {
-                            "drawbackText": "Cumbersome, time-intensive editing"
-                        },
-                        {
-                            "drawbackText": "Expensive professional editing fees"
-                        },
-                        {
-                            "drawbackText": "Inconsistent messaging and branding"
-                        },
-                        {
-                            "drawbackText": "Scaling content output feels impossible"
-                        },
-                        {
-                            "drawbackText": "Slow turnaround stifles social momentum"
-                        },
-                        {
-                            "drawbackText": "Hard to adapt quickly to trending content"
-                        }
-                    ]
-                },
-                "callToActionButtonLink": "#get-started",
-                "callToActionButtonText": "Create Viral Videos Today",
-                "closingCallToActionText": "Join thousands revolutionizing their social presence with VidBot’s AI-powered video generator designed for creators like you"
+        "comparisonSubheadline": "Discover how PixelPlus transforms social media marketing with fast, AI-driven image creation that fits your brand perfectly",
+        "traditionalDevDetails": {
+          "traditionalDevTitle": "Traditional Image Creation Challenges",
+          "traditionalDevDrawbacks": [
+            {
+              "drawbackText": "Time-consuming manual edits"
+            },
+            {
+              "drawbackText": "High costs for graphic designers"
+            },
+            {
+              "drawbackText": "Inconsistent visual branding"
+            },
+            {
+              "drawbackText": "Struggles with content volume and scalability"
+            },
+            {
+              "drawbackText": "Slow content turnaround hampers campaigns"
+            },
+            {
+              "drawbackText": "Difficulty adapting to fast-changing social trends"
             }
+          ]
         },
-        {
-            "type": "Solution1",
-            "props": {
-                "id": "Solution1-acf2f781-7372-4cd9-bbea-1c4b7414d373",
-                "ctaButton": {
-                    "buttonLink": "#try-for-free",
-                    "buttonText": "Make Your First Video Now",
-                    "showButton": true
-                },
-                "headerContent": {
-                    "mainTitle": "Create Videos That Captivate",
-                    "description": "Instantly produce eye-catching social media videos with AI precision tailored to your brand. No experience needed—just powerful content that connects and converts."
-                },
-                "solutionItems": [
-                    {
-                        "solutionTitle": "Dynamic Templates",
-                        "solutionSubTitle": "Custom videos in moments.",
-                        "solutionDescription": "Access a diverse collection of AI-enhanced templates engineered to maximize engagement while reflecting your unique style—launch viral-ready content effortlessly."
-                    },
-                    {
-                        "solutionTitle": "AI-Driven Editing",
-                        "solutionSubTitle": "Flawless, pro-quality edits.",
-                        "solutionDescription": "Leverage smart editing tools that automatically add seamless transitions, perfect cuts, and vibrant effects—making every video look polished and professional without the hassle."
-                    },
-                    {
-                        "solutionTitle": "Social Media Optimized",
-                        "solutionSubTitle": "Perfect fit for every platform.",
-                        "solutionDescription": "Export videos perfectly sized and formatted for Instagram, TikTok, Facebook, YouTube, and more—eliminate manual adjustments and reach your audience with precision."
-                    }
-                ]
-            }
+        "callToActionButtonLink": "#get-started",
+        "callToActionButtonText": "Create Stunning Images Now",
+        "closingCallToActionText": "Join thousands who’re elevating their social media with PixelPlus’s AI-powered image generator tool"
+      }
+    },
+    {
+      "type": "Solution1",
+      "props": {
+        "id": "Solution1-acf2f781-7372-4cd9-bbea-1c4b7414d373",
+        "ctaButton": {
+          "buttonLink": "#try-for-free",
+          "buttonText": "Create Your First Image",
+          "showButton": true
         },
-        {
-            "type": "SocialProof1",
-            "props": {
-                "id": "SocialProof1-b7a2f0f1-c8c2-4599-ac15-b362e68ea90c",
-                "title": "Loved by Social Creators and Brands",
-                "description": "Hear from our users making waves on social media:",
-                "testimonials": [
-                    {
-                        "quote": "Since switching to this AI Video Generator, our engagement skyrocketed and content creation is effortless.",
-                        "title": "Social Media Manager, BrightBrand",
-                        "author": "Jack Sibire",
-                        "rating": 5,
-                        "avatarId": 4,
-                        "highlightedText": "engagement skyrocketed"
-                    },
-                    {
-                        "quote": "This tool transformed our video strategy—fast, intuitive, and perfect for social platforms.",
-                        "title": "Content Director, Mousio",
-                        "author": "Adele Mouse",
-                        "rating": 5,
-                        "avatarId": 5,
-                        "highlightedText": "transformed our video strategy"
-                    },
-                    {
-                        "quote": "The AI-driven features save us hours while boosting video quality unlike anything else we've tried.",
-                        "title": "CTO, Clockwork",
-                        "author": "Ben Clock",
-                        "rating": 5,
-                        "avatarId": 6,
-                        "highlightedText": "AI-driven features save us hours"
-                    }
-                ],
-                "titleHighlightedText": "2,047+ creators"
-            }
+        "headerContent": {
+          "mainTitle": "Images That Captivate.",
+          "description": "Transform your social media with AI-crafted visuals that grab attention instantly. Generate unique, brand-aligned images with ease—no design skills needed."
         },
-        {
-            "type": "Features1",
-            "props": {
-                "id": "Features1-03643de3-fc61-4dd1-b1c5-47c573dea47c",
-                "label": "- FEATURE 1",
-                "title": "Create stunning videos instantly with ",
-                "button": {
-                    "link": "#try-for-free",
-                    "show": true,
-                    "text": "Get Started Free"
-                },
-                "description": "Our AI-powered video generator crafts eye-catching social media content in seconds, using smart templates and real-time customization to boost your engagement and save time.",
-                "titleHighlightedText": "AI"
-            }
+        "solutionItems": [
+          {
+            "solutionTitle": "Instant Templates",
+            "solutionSubTitle": "Create standout images fast.",
+            "solutionDescription": "Access a rich library of AI-enhanced templates tailored for social media trends, enabling you to produce scroll-stopping visuals perfectly matched to your brand."
+          },
+          {
+            "solutionTitle": "Smart Customization",
+            "solutionSubTitle": "Personalize without hassle.",
+            "solutionDescription": "Easily tweak colors, styles, and elements with intuitive AI suggestions, ensuring every image fits your unique voice and audience preferences."
+          },
+          {
+            "solutionTitle": "Multi-Platform Export",
+            "solutionSubTitle": "Perfect fit for every feed.",
+            "solutionDescription": "Automatically optimize and format your images for Instagram, Facebook, Twitter, LinkedIn and more—reach your audience with flawless visuals every time."
+          }
+        ]
+      }
+    },
+    {
+      "type": "SocialProof1",
+      "props": {
+        "id": "SocialProof1-b7a2f0f1-c8c2-4599-ac15-b362e68ea90c",
+        "title": "Trusted by Thousands",
+        "description": "Hear why creators love our tool:",
+        "testimonials": [
+          {
+            "quote": "Our social engagement doubled after switching to this image generator.",
+            "title": "Social Media Strategist, BrightWave",
+            "author": "Emma Lee",
+            "rating": 5,
+            "avatarId": 4,
+            "highlightedText": "engagement doubled"
+          },
+          {
+            "quote": "This tool’s AI-crafted visuals save us hours every week.",
+            "title": "Content Creator, ViralVisions",
+            "author": "Mark Rivera",
+            "rating": 5,
+            "avatarId": 5,
+            "highlightedText": "save us hours"
+          },
+          {
+            "quote": "Creating eye-catching posts has never been easier or faster.",
+            "title": "Marketing Lead, TrendyApps",
+            "author": "Sophie Chen",
+            "rating": 5,
+            "avatarId": 6,
+            "highlightedText": "never been easier"
+          }
+        ],
+        "titleHighlightedText": "5,300+ happy users"
+      }
+    },
+    {
+      "type": "Features1",
+      "props": {
+        "id": "Features1-03643de3-fc61-4dd1-b1c5-47c573dea47c",
+        "label": "- FEATURE 1",
+        "title": "Create Stunning Visuals Instantly with ",
+        "button": {
+          "link": "#try-for-free",
+          "show": true,
+          "text": "Generate Your First Image"
         },
-        {
-            "type": "Features2",
-            "props": {
-                "id": "Features2-40e2e422-d254-4f8c-897b-bc0ea03cb1bd",
-                "label": "- FEATURE 2",
-                "title": "Create stunning videos the smart ",
-                "button": {
-                    "link": "#try-for-free",
-                    "show": true,
-                    "text": "Generate Your Video"
-                },
-                "description": "Our AI-powered video generator transforms your social media content with effortless automation, delivering eye-catching videos that boost engagement and save you hours of editing time.",
-                "titleHighlightedText": "way"
-            }
+        "description": "Experience lightning-fast, AI-powered image creation designed specifically for social media. Customize templates, styles, and formats effortlessly to make your content stand out and engage your audience like never before.",
+        "titleHighlightedText": "Visuals"
+      }
+    },
+    {
+      "type": "Features2",
+      "props": {
+        "id": "Features2-40e2e422-d254-4f8c-897b-bc0ea03cb1bd",
+        "label": "- FEATURE 2",
+        "title": "Create Stunning Visuals the Smart",
+        "button": {
+          "link": "#try-for-free",
+          "show": true,
+          "text": "Generate Your First Image"
         },
-        {
-            "type": "Pricing1",
-            "props": {
-                "id": "Pricing1-c0155bec-0c50-4004-aeb5-7922d7fc6789",
-                "plans": [
-                    {
-                        "cta": "Try Basic Plan Now",
-                        "name": "Basic",
-                        "badge": "",
-                        "price": 9,
-                        "featured": false,
-                        "description": "Perfect for solo creators and new social media users",
-                        "featureFlags": [
-                            {
-                                "value": true
-                            },
-                            {
-                                "value": false
-                            },
-                            {
-                                "value": false
-                            },
-                            {
-                                "value": false
-                            }
-                        ]
-                    },
-                    {
-                        "cta": "Level Up with Pro",
-                        "name": "Pro",
-                        "badge": "Most Popular",
-                        "price": 19,
-                        "featured": true,
-                        "description": "Ideal for influencers and growing brands craving more features",
-                        "featureFlags": [
-                            {
-                                "value": true
-                            },
-                            {
-                                "value": true
-                            },
-                            {
-                                "value": true
-                            },
-                            {
-                                "value": false
-                            }
-                        ]
-                    },
-                    {
-                        "cta": "Unlock Business Power",
-                        "name": "Business",
-                        "badge": "",
-                        "price": 99,
-                        "featured": false,
-                        "description": "Built for agencies and enterprises demanding full customization",
-                        "featureFlags": [
-                            {
-                                "value": true
-                            },
-                            {
-                                "value": true
-                            },
-                            {
-                                "value": true
-                            },
-                            {
-                                "value": true
-                            }
-                        ]
-                    }
-                ],
-                "title": "Simple Pricing",
-                "features": [
-                    {
-                        "value": "Unlimited video projects"
-                    },
-                    {
-                        "value": "24/7 expert support"
-                    },
-                    {
-                        "value": "Brandable custom domains"
-                    },
-                    {
-                        "value": "In-depth AI analytics"
-                    }
-                ],
-                "description": "Transparent pricing that fits every creator’s budget without compromising power."
-            }
+        "description": "Our AI-powered image generator transforms your social media content with eye-catching, custom visuals that boost engagement and save you hours of design work.",
+        "titleHighlightedText": "way"
+      }
+    },
+    {
+      "type": "Pricing1",
+      "props": {
+        "id": "Pricing1-c0155bec-0c50-4004-aeb5-7922d7fc6789",
+        "plans": [
+          {
+            "cta": "Create Stunning Posts Now",
+            "name": "Basic",
+            "badge": "",
+            "price": 9,
+            "featured": false,
+            "description": "Perfect for solo creators and casual users",
+            "featureFlags": [
+              {
+                "value": true
+              },
+              {
+                "value": false
+              },
+              {
+                "value": false
+              },
+              {
+                "value": false
+              }
+            ]
+          },
+          {
+            "cta": "Boost Your Brand Today",
+            "name": "Pro",
+            "badge": "Most Popular",
+            "price": 19,
+            "featured": true,
+            "description": "Ideal for influencers and growing teams",
+            "featureFlags": [
+              {
+                "value": true
+              },
+              {
+                "value": true
+              },
+              {
+                "value": true
+              },
+              {
+                "value": false
+              }
+            ]
+          },
+          {
+            "cta": "Scale Your Visuals Effortlessly",
+            "name": "Business",
+            "badge": "",
+            "price": 99,
+            "featured": false,
+            "description": "Designed for agencies and enterprise needs",
+            "featureFlags": [
+              {
+                "value": true
+              },
+              {
+                "value": true
+              },
+              {
+                "value": true
+              },
+              {
+                "value": true
+              }
+            ]
+          }
+        ],
+        "title": "Effortless Visuals",
+        "features": [
+          {
+            "value": "Unlimited image creations"
+          },
+          {
+            "value": "24/7 Personalized Support"
+          },
+          {
+            "value": "Brand-aligned custom domains"
+          },
+          {
+            "value": "In-depth performance analytics"
+          }
+        ],
+        "description": "Flexible pricing crafted for creators who want professional-quality social media images without breaking the bank."
+      }
+    },
+    {
+      "type": "FAQ1",
+      "props": {
+        "id": "FAQ1-0b107a8f-6fbf-4902-a384-280bc30c5097",
+        "faqs": [
+          {
+            "answer": "Our AI-driven image generator creates stunning, personalized visuals for your social media in seconds—just enter your ideas, and watch your content come to life effortlessly.",
+            "question": "How does this work?"
+          },
+          {
+            "answer": "Boost engagement with eye-catching images, save hours of design time, and effortlessly maintain your brand’s unique style across every post.",
+            "question": "What are the benefits?"
+          },
+          {
+            "answer": "Not at all. Our user-friendly platform requires zero design experience and lets you craft professional visuals with just a few clicks.",
+            "question": "Is it difficult to use?"
+          },
+          {
+            "answer": "Definitely! Reach out to our team for personalized plans tailored to your content needs and business goals.",
+            "question": "Can I have custom pricing?"
+          },
+          {
+            "answer": "Yes — try all features free for 7 days with no credit card required and cancel anytime if it’s not the perfect fit.",
+            "question": "Is there trial version available?"
+          },
+          {
+            "answer": "Simply hit the “Create Now” button at the top, choose your plan, and start generating impressive social media images today.",
+            "question": "Where do I sign up?"
+          }
+        ],
+        "title": "FAQ"
+      }
+    },
+    {
+      "type": "About1",
+      "props": {
+        "id": "About1-f69c71a0-2c9a-4cbb-81b4-0e2aff409c85",
+        "label": "- MEET THE CREATOR",
+        "outro": "I'm sharing every step of developing SpriteGenie, your go-to social media image creator. Dive in, see the progress, and send your feedback! 🚀",
+        "heading": "Hey, I'm Luke",
+        "subtitle": "Passionate about powerful visuals.",
+        "paragraphs": [
+          {
+            "value": "I'm the founder of SpriteGenie, an AI-powered image generator designed to create stunning social media graphics in seconds."
+          },
+          {
+            "value": "People often ask me:"
+          },
+          {
+            "value": "- How can I create eye-catching social posts instantly? - How do I stand out in a crowded feed?"
+          },
+          {
+            "value": "My answer: Smart AI tools that turn your ideas into viral-ready images effortlessly"
+          }
+        ],
+        "principles": [
+          {
+            "title": "Create without limits",
+            "description": "Customizable templates powered by AI to match any brand or style"
+          },
+          {
+            "title": "Speed meets quality",
+            "description": "Generate professional-grade visuals in just seconds—no design skills needed"
+          },
+          {
+            "title": "Boost engagement fast",
+            "description": "Craft scroll-stopping images that capture attention and drive clicks"
+          }
+        ]
+      }
+    },
+    {
+      "type": "CTA1",
+      "props": {
+        "id": "CTA1-899ad685-070f-4415-9413-81273bea7701",
+        "button": {
+          "link": "#start-trial",
+          "show": true,
+          "text": "Create Stunning Images Now"
         },
-        {
-            "type": "FAQ1",
-            "props": {
-                "id": "FAQ1-0b107a8f-6fbf-4902-a384-280bc30c5097",
-                "faqs": [
-                    {
-                        "question": "How does the AI video generator work?",
-                        "answer": "Our AI-powered tool transforms your ideas into stunning social media videos in minutes, using advanced algorithms and customizable templates—no experience needed."
-                    },
-                    {
-                        "question": "What benefits can I expect?",
-                        "answer": "Create eye-catching videos faster, boost your social media engagement, save on production costs, and effortlessly scale your content strategy with our smart automation."
-                    },
-                    {
-                        "question": "Is it beginner-friendly?",
-                        "answer": "Definitely! Our intuitive interface lets anyone produce professional-quality videos without any editing skills or technical know-how."
-                    },
-                    {
-                        "question": "Can I get custom features or pricing?",
-                        "answer": "Yes! Reach out to our team for personalized plans tailored to your unique content goals and volume requirements."
-                    },
-                    {
-                        "question": "Is there a free trial available?",
-                        "answer": "Absolutely. Try all features free for 14 days with no credit card required and cancel anytime if it’s not the perfect fit."
-                    },
-                    {
-                        "question": "How do I get started?",
-                        "answer": "Click the 'Create Video' button on the top right or visit our pricing page to pick the best plan and start generating videos instantly."
-                    }
-                ],
-                "title": "FAQs"
-            }
-        },
-        {
-            "type": "About1",
-            "props": {
-                "id": "About1-f69c71a0-2c9a-4cbb-81b4-0e2aff409c85",
-                "label": "- DISCOVER OUR AI",
-                "outro": "Join thousands of creators transforming social media with effortless, stunning videos. Experience the future of video creation today! 🚀",
-                "heading": "Meet Your AI Video Partner",
-                "subtitle": "Transform your social media videos instantly.",
-                "paragraphs": [
-                    {
-                        "value": "Our AI Video Generator tool empowers you to create eye-catching social media videos in minutes, no editing skills needed."
-                    },
-                    {
-                        "value": "Content creators ask us:"
-                    },
-                    {
-                        "value": "- How can I save time on video production?\n- How do I make engaging videos that get noticed?"
-                    },
-                    {
-                        "value": "Our solution: smart automation paired with creative control for videos that stand out and drive engagement."
-                    }
-                ],
-                "principles": [
-                    {
-                        "title": "Effortless video creation",
-                        "description": "AI-driven templates and smart editing to produce professional videos in seconds"
-                    },
-                    {
-                        "title": "Tailored for social media",
-                        "description": "Optimized formats and styles designed to boost reach and engagement across platforms"
-                    },
-                    {
-                        "title": "Powerful yet simple",
-                        "description": "User-friendly interface with advanced AI features for creators at any skill level"
-                    }
-                ]
-            }
-        },
-        {
-            "type": "CTA1",
-            "props": {
-                "id": "CTA1-899ad685-070f-4415-9413-81273bea7701",
-                "button": {
-                    "link": "#start-trial",
-                    "show": true,
-                    "text": "Create Stunning Videos Now"
-                },
-                "avatars": [
-                    {
-                        "avatarId": 32
-                    },
-                    {
-                        "avatarId": 44
-                    },
-                    {
-                        "avatarId": 65
-                    },
-                    {
-                        "avatarId": 75
-                    },
-                    {
-                        "avatarId": 12
-                    },
-                    {
-                        "avatarId": 68
-                    }
-                ],
-                "heading": "Elevate Your Social Reach",
-                "description": "Transform your social media with AI-powered video creation that’s fast, effortless, and tailored to captivate your audience.",
-                "foundersCount": 3582
-            }
-        }
-    ]
+        "avatars": [
+          {
+            "avatarId": 32
+          },
+          {
+            "avatarId": 44
+          },
+          {
+            "avatarId": 65
+          },
+          {
+            "avatarId": 75
+          },
+          {
+            "avatarId": 12
+          },
+          {
+            "avatarId": 68
+          }
+        ],
+        "heading": "Make Visuals That Wow",
+        "description": "Craft eye-catching social media graphics instantly with our AI-powered image generator designed to boost engagement and brand presence effortlessly.",
+        "foundersCount": 3582
+      }
+    }
+  ]
 }
